@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "supplier-creation",
+    "libraryId": "cdb44cd6-6164-48f1-a12a-aa8ed3e176b5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SupplierCreation",
+    "solutionShortDescription": "SupplierCreation description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

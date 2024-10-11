@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "supplier-creation-client-side-solution",
+    "id": "cdb44cd6-6164-48f1-a12a-aa8ed3e176b5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SupplierCreation description"
+      },
+      "longDescription": {
+        "default": "SupplierCreation description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "supplier-creation Feature",
+        "description": "The feature that activates elements of the supplier-creation solution.",
+        "id": "882c54dd-3d16-49a5-84a0-cfcb8d909469",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/supplier-creation.sppkg"
+  }
+}
